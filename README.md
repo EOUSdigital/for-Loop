@@ -1,4 +1,4 @@
-//TODO 📕 Module 06 - Loops, Iteration and High Order Array Methods - Lesson 02.01: `for` Loop
+# 📕 Module 06 - Loops, Iteration and High Order Array Methods - Lesson 02.01: `for` Loop
 
 This lesson focuses on how to use the `for` loop in JavaScript to perform repeated operations, iterate over data, and control program flow.
 
